@@ -25,4 +25,4 @@ Avaliable colors:
 ![image](https://user-images.githubusercontent.com/55718659/89253587-0a983700-d5eb-11ea-90c2-ab499194823c.png)
 ![image](https://user-images.githubusercontent.com/55718659/89253626-20a5f780-d5eb-11ea-9c10-1dfaa51cffbe.png)
 
-**Note**: There is a white border around each of these windows, they it not visible in the screenshots.
+**Note**: There are white borders around each of these windows, they are just not visible in the screenshots.
