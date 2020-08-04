@@ -1,6 +1,6 @@
 # Dark Photon Rofi Themes
 
-**Dark versions of ![Anstellaire's "photon-rofi-themes" repository](https://github.com/anstellaire/photon-rofi-themes).**
+**These themes are dark versions of ![Anstellaire's "photon-rofi-themes" repository](https://github.com/anstellaire/photon-rofi-themes).**
 
 These themes are for [Rofi](https://github.com/DaveDavenport/rofi).
 
